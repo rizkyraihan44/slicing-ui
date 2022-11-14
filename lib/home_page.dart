@@ -290,7 +290,7 @@ class _HomePageState extends State<HomePage> {
                         child: Column(
                           children: [
                             Image.asset(
-                              "assets/images/img1.png",
+                              "assets/images/img2.png",
                               width: 200,
                               height: 200,
                               fit: BoxFit.cover,
